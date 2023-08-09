@@ -23,7 +23,11 @@ Welcome to Ecomzy! This project showcases a modern and user-friendly e-commerce 
 
 It's built using the latest web development technologies to provide a seamless shopping experience to users.
 
+# Initial-Page
+
 ![Ecomzy_1](https://github.com/Akkivarma07/Ecomerce-Website-Client/assets/124379624/3367028f-04c3-47ce-b3f0-6fe978f55a3a)
+
+# Cart-Page
 
 ![Ecomzy_2](https://github.com/Akkivarma07/Ecomerce-Website-Client/assets/124379624/83279c9d-a230-4979-992c-99912dad64ef)
 
