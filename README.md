@@ -1,5 +1,8 @@
 # Ecomzy: React E-commerce Frontend
 
+![logo](https://github.com/Akkivarma07/Ecomerce-Website-Client/assets/124379624/2ce3b50f-0690-4f17-bf07-6367f3ea86ae)
+
+
 Welcome to Ecomzy, a cutting-edge e-commerce website frontend built using React.js, React Hooks, Redux Toolkit, and Tailwind CSS. 
 
 Immerse yourself in the world of online shopping with a sleek, intuitive, and responsive interface.
@@ -19,6 +22,10 @@ Technologies Used
 Welcome to Ecomzy! This project showcases a modern and user-friendly e-commerce website frontend. 
 
 It's built using the latest web development technologies to provide a seamless shopping experience to users.
+
+![Ecomzy_1](https://github.com/Akkivarma07/Ecomerce-Website-Client/assets/124379624/3367028f-04c3-47ce-b3f0-6fe978f55a3a)
+
+![Ecomzy_2](https://github.com/Akkivarma07/Ecomerce-Website-Client/assets/124379624/83279c9d-a230-4979-992c-99912dad64ef)
 
 # Features
 
